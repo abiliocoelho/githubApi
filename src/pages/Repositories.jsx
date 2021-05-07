@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
   },
   repositoryContainer: {
     width: "90%",
-    backgroundColor: "#fff",
+    backgroundColor: "#f00",
     marginTop: 2,
     padding: 4,
     borderRadius: 6,
